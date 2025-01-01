@@ -27,6 +27,7 @@ To get started, expand the "Logging" drop-down and check "Logging active", and s
 - It can be helpful to do other things first, and hit "whitelist" so they won't appear in the log again.
 - Once you have a small set of rows, hit "blacklist" on one or more, and see how this changes.
 - Once you press "whitelist" or "blacklist" on any effect, they will show in the "Effect filters > Custom" section and you can modify them.
+- Note that some effects may depend on others. So hiding the first one of a chain may hide the ones that follow. To avoid this, you can start blacklisting from the end.
 
 Lastly, if you find something that is useful to you, there's a good chance it will be useful to others too. Consider messaging me or opening a PR with the relevant information so it can be added to the next release.
 
