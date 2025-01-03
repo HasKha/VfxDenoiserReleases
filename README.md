@@ -35,12 +35,4 @@ Lastly, if you find something that is useful to you, there's a good chance it wi
 All effects are stored in a json file that is loaded on start and closed on exit. 
 
 ## Changelog
-Beta 1 (0.1.0.0)
-- Initial release
-
-Beta 2 (0.2.0.0)
-- Improved settings UI
-- Changed no behavior to show all.
-- Changed ele sandstorm from "hide all" to "hide others" as it does not have a ring
-- Added necro gs4 (hide all) and harb shroud 5 (hide others)
-- Added aegis effect (show all)
+Check the [Release page](https://github.com/HasKha/VfxDenoiserReleases/releases) for the full changelog.
