@@ -1,5 +1,9 @@
 # VfxDenoiserReleases
-GW2 Nexus plugin to reduce combat vfx
+GW2 Nexus plugin to reduce combat vfx.
+
+| ![denoiser1](https://github.com/user-attachments/assets/f5c2979c-f52f-4813-9cf9-e0f9e98ca90b) | ![denoiser2](https://github.com/user-attachments/assets/39c69565-50ac-4cc9-85ed-81014ce6417f) | ![denoiser3](https://github.com/user-attachments/assets/b1ba7967-1f67-472b-a9b9-74dc63eff711) |
+|:--:|:--:|:--:|
+| Klobjarne - no footfalls or ghostly follower | Scourge Sandstorm Shroud (F5) | Ele Spear etching and Cata spheres |
 
 ## Installation
 - Requires Nexus: https://github.com/RaidcoreGG/Nexus
