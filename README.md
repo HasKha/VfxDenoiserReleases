@@ -12,7 +12,7 @@ GW2 Nexus plugin to reduce combat vfx.
 - Load in Nexus
 
 ## Features
-- By default, hides a number of visual effects from yourself and others. All of the changes are only client-side, have no functional changes to skills, and are only active while the mod is active. Please refer to [this document](https://docs.google.com/spreadsheets/d/1nkOTDwzj3sSEjjlcpWW0nndMx7bJvXGiF7I2AOiQyIA/edit?gid=0#gid=0) for a full list of effects that are implemented or planned.
+- By default, hides a number of visual effects from yourself and others. All of the changes are only client-side, have no functional changes to skills, and are only active while the mod is active. Please refer to [this document](https://docs.google.com/spreadsheets/d/1nkOTDwzj3sSEjjlcpWW0nndMx7bJvXGiF7I2AOiQyIA/edit?gid=0#gid=0) for a full list of effects that are implemented in the built-in defaults. The defaults are a curated list of the effects that most hurt visual clarity, it is by design not a full list. If you want to hide more effects, checkout Xenophy's excellent work [here](https://github.com/Xen0phy/VfxD_Visual_Sins).
 - You can customize what to do for each effect. Currently supported is:
   - Hide: completely removes the effect (or the part of the effect)
   - Show: show the effect as normal. No change.
